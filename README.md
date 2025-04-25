@@ -4,6 +4,7 @@ This project is designed to help customers predict or "prophecy" potential licen
 
 โครงการนี้ถูกออกแบบมาเพื่อช่วยให้ผู้ใช้งานสามารถทำนายหรือ "พยากรณ์" หมายเลขทะเบียนรถที่เป็นไปได้ โดยใช้การประมวลผลผ่านอัลกอริทึมและข้อมูลที่ผู้ใช้งานให้มา เพื่อให้คำแนะนำและข้อมูลเชิงลึกเกี่ยวกับหมายเลขทะเบียนที่อาจมีความหมายหรือสอดคล้องกับความชอบของผู้ใช้งาน
 
+Golang version : https://github.com/naruebaet/thai-plate-prophecy-go
 
 ## How to install
 ```shell
@@ -91,3 +92,5 @@ try {
   console.log("Error:", err.message);
 }
 ```
+## If you want to support me ^_^
+![by me coffee](./bmc_qr.png)
