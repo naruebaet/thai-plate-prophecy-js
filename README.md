@@ -92,5 +92,8 @@ try {
   console.log("Error:", err.message);
 }
 ```
-## If you want to support me ^_^
-![by me coffee](./bmc_qr.png)
+
+### Support me coffee
+[Buy me a coffee](https://www.buymeacoffee.com/alpakalab)
+
+Crafted by : [Alpaka LAB](https://alpakalab.com)
