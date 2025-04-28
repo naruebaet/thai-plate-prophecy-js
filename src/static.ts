@@ -59,7 +59,7 @@ export const luckyNumberAdvice: LuckyNumberAdvice[] = [
   {
     day: 1,
     lucky_num_desc: "เลขมงคลสำหรับคนเกิดวันจันทร์",
-    lucky_num: [2, 4, 6, 8],
+    lucky_num: [2, 4, 6, 8,0],
     avoid_num_desc: "เลขอัปมงคลสำหรับคนเกิดวันจันทร์",
     avoid_num: [1, 5],
     avoid_char_desc: "ตัวอักษรที่ควรหลีกเลี่ยงสำหรับคนเกิดวันจันทร์",
@@ -88,7 +88,7 @@ export const luckyNumberAdvice: LuckyNumberAdvice[] = [
     lucky_num_desc: "เลขมงคลสำหรับคนเกิดวันพฤหัสบดี",
     lucky_num: [2, 4, 6, 8],
     avoid_num_desc: "เลขอัปมงคลสำหรับคนเกิดวันพฤหัสบดี",
-    avoid_num: [8],
+    avoid_num: [7],
     avoid_char_desc: "ตัวอักษรที่ควรหลีกเลี่ยงสำหรับคนเกิดวันพฤหัสบดี",
     avoid_char: ["ด", "ต", "ถ", "ท", "ธ", "น"],
   },
