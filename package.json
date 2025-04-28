@@ -1,5 +1,5 @@
 {
-  "name": "thai-plate-prophecy-ts",
+  "name": "@alpakalab/thai-plate-prophecy-ts",
   "version": "1.0.2",
   "description": "Thai plate prophecy TypeScript version",
   "main": "dist/index.js",
