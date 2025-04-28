@@ -1,6 +1,6 @@
 {
   "name": "thai-plate-prophecy-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Thai plate prophecy TypeScript version",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
