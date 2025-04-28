@@ -8,7 +8,7 @@ Golang version : https://github.com/naruebaet/thai-plate-prophecy-go
 
 ## How to install
 ```shell
-$ npm install thai-plate-prophecy-ts
+$ npm install @alpakalab/thai-plate-prophecy-ts
 ```
 
 ## Feature
@@ -33,7 +33,7 @@ $ npm install thai-plate-prophecy-ts
 
 **Example**:
 ```typescript
-import { adviceByPlateData } from 'thai-plate-prophecy-ts';
+import { adviceByPlateData } from '@alpakalab/thai-plate-prophecy-ts';
 
 try {
   const result = adviceByPlateData("กข", "1234");
@@ -59,7 +59,7 @@ try {
 
 **Example**:
 ```typescript
-import { adviceByDMY } from 'thai-plate-prophecy-ts';
+import { adviceByDMY } from '@alpakalab/thai-plate-prophecy-ts';
 
 try {
   const advice = adviceByDMY("01", "01", "2023");
@@ -83,7 +83,7 @@ try {
 
 **Example**:
 ```typescript
-import { adviceByWeekDay, WeekDay } from 'thai-plate-prophecy-ts';
+import { adviceByWeekDay, WeekDay } from '@alpakalab/thai-plate-prophecy-ts';
 
 try {
   const advice = adviceByWeekDay(WeekDay.Monday);
